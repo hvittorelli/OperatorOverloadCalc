@@ -1,0 +1,15 @@
+C:\Users\missh\source\repos\CIT195\OperatorOverloadCalc\OperatorOverloadCalc\obj\Debug\net6.0\OperatorOverloadCalc.csproj.AssemblyReference.cache
+C:\Users\missh\source\repos\CIT195\OperatorOverloadCalc\OperatorOverloadCalc\obj\Debug\net6.0\OperatorOverloadCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\missh\source\repos\CIT195\OperatorOverloadCalc\OperatorOverloadCalc\obj\Debug\net6.0\OperatorOverloadCalc.AssemblyInfoInputs.cache
+C:\Users\missh\source\repos\CIT195\OperatorOverloadCalc\OperatorOverloadCalc\obj\Debug\net6.0\OperatorOverloadCalc.AssemblyInfo.cs
+C:\Users\missh\source\repos\CIT195\OperatorOverloadCalc\OperatorOverloadCalc\obj\Debug\net6.0\OperatorOverloadCalc.csproj.CoreCompileInputs.cache
+C:\Users\missh\source\repos\CIT195\OperatorOverloadCalc\OperatorOverloadCalc\bin\Debug\net6.0\OperatorOverloadCalc.exe
+C:\Users\missh\source\repos\CIT195\OperatorOverloadCalc\OperatorOverloadCalc\bin\Debug\net6.0\OperatorOverloadCalc.deps.json
+C:\Users\missh\source\repos\CIT195\OperatorOverloadCalc\OperatorOverloadCalc\bin\Debug\net6.0\OperatorOverloadCalc.runtimeconfig.json
+C:\Users\missh\source\repos\CIT195\OperatorOverloadCalc\OperatorOverloadCalc\bin\Debug\net6.0\OperatorOverloadCalc.dll
+C:\Users\missh\source\repos\CIT195\OperatorOverloadCalc\OperatorOverloadCalc\bin\Debug\net6.0\OperatorOverloadCalc.pdb
+C:\Users\missh\source\repos\CIT195\OperatorOverloadCalc\OperatorOverloadCalc\obj\Debug\net6.0\OperatorOverloadCalc.dll
+C:\Users\missh\source\repos\CIT195\OperatorOverloadCalc\OperatorOverloadCalc\obj\Debug\net6.0\refint\OperatorOverloadCalc.dll
+C:\Users\missh\source\repos\CIT195\OperatorOverloadCalc\OperatorOverloadCalc\obj\Debug\net6.0\OperatorOverloadCalc.pdb
+C:\Users\missh\source\repos\CIT195\OperatorOverloadCalc\OperatorOverloadCalc\obj\Debug\net6.0\OperatorOverloadCalc.genruntimeconfig.cache
+C:\Users\missh\source\repos\CIT195\OperatorOverloadCalc\OperatorOverloadCalc\obj\Debug\net6.0\ref\OperatorOverloadCalc.dll
